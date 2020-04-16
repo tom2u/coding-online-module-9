@@ -12,3 +12,4 @@ Each link is to the state of the webpage at the END of the indicated lesson.
 [9.2.6/portfolio-generator](https://tom2u.github.io/coding-online-module-9/9.2.6/portfolio-generator)  
 [9.3.5/portfolio-generator](https://tom2u.github.io/coding-online-module-9/9.3.5/portfolio-generator)  
 [9.3.6/portfolio-generator](https://tom2u.github.io/coding-online-module-9/9.3.6/portfolio-generator)  
+[9.4.4/portfolio-generator](https://tom2u.github.io/coding-online-module-9/9.4.4/portfolio-generator)  
